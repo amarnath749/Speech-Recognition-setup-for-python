@@ -1,0 +1,9 @@
+#Installation
+01.install Virtual Environment
+
+python3 -m venv <Folder Name>
+
+02.activate virtual environment
+source /bin/activate
+
+#This works if you are in the destination file otheerwise ypu have to give the destination folder path 
