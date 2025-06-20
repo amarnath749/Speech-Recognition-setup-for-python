@@ -1,0 +1,4 @@
+#it requires PyAudio to work and for the working of Pyaudio it requires portaudio to be installed
+
+dnf install portaudio #yes it is depended on package manager acoording to your distro 
+
